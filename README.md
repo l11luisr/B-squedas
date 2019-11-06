@@ -1,10 +1,12 @@
-						UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
-								  FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
-									  ALGORITMOS Y ESTRUCTURA DE DATOS
-											     PRÁCTICA #10
+				     UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
+			            FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA  
+                                        ALGORITMOS Y ESTRUCTURA DE DATOS
+                                                 PRÁCTICA #10
 
 Nombre: Rodríguez Muñoz José Luis
-Práctica: Búsqueda lineal, binaria e interpolada
+
+Práctica: Búsqueda Lineal, Binaria e Interpolada
+
 Fecha: 03/NOV/2019
 
 Descripción:
