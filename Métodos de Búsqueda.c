@@ -194,9 +194,9 @@ int menu()
         case '2':
             system("cls");
             clearBuffer();
-	        QueryPerformanceCounter(&tiempoInicial);
-	        busquedaBinaria(array);
-	        QueryPerformanceCounter(&tiempoFinal);
+	    QueryPerformanceCounter(&tiempoInicial);
+	    busquedaBinaria(array);
+	    QueryPerformanceCounter(&tiempoFinal);
             segundos = performancecounter_diff(&tiempoFinal, &tiempoInicial);
             printf("\n\n\t Tiempo de ejecuci%cn: %f segundos\n", 162, segundos);
             getch();
