@@ -32,7 +32,7 @@ Si los datos están distribuidos de forma uniforme, este método puede ser más 
 Básicamente el algoritmo es el mismo que el de la búsqueda binaria. La diferencia radica en que en la búsqueda
 interpolada no se busca el dato en el centro del arreglo sino que se calcula su posición aproximada con la siguiente fórmula:
 
-									(i < j) ; g = (j-i)(z-A[i]) / (A[j] - A[i]
+				      (i < j) ; g = (j-i)(z-A[i]) / (A[j] - A[i]
 
 	Desarrollo:
 Implemente los algoritmos de las búsquedas lineal, binaria e interpolada para un arreglo de tamaño N, utilizando
