@@ -161,8 +161,8 @@ double performancecounter_diff(LARGE_INTEGER *a, LARGE_INTEGER *b)
 
 int menu()
 {
-    int arreglo[20] = {11, 4, 7, 1, 2, 8, 9, 0, 23, 3, 5, 6, 12, 16, 15, 19, 15, 20, 30, 50};
-    int array[20] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
+    int arreglo[20] = {11, 4, 7, 1, 2, 8, 9, 0, 23, 3, 5, 6, 12, 16, 15, 19, 15, 20, 30, 50}; // Arreglo aleatorio
+    int array[20] = {10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 17, 28, 29}; // Arreglo ordenado
     LARGE_INTEGER tiempoInicial, tiempoFinal;
     double segundos;
 
